@@ -6,7 +6,7 @@ Tarea 1: Para esta tarea, hemos realizado la cuanta de píxeles blancos tanto po
 
 Tarea 2: Para esta tarea, hemos escogido la imagen leon.jpg y lo que hemos hecho ha sido mostrar las imágenes resultantes de aplicar Sobel de manera vertical, horizontal y combinada antes y después de ajustar su escala.
 
-Tarea 3: Para esta tarea, hemos convertido la imagen resultante de Sobel a 8 bits y posteriormente le hemos aplicado un umbralizado. Por otro lado, hemos realizado un conteo del número máximo de píxeles blancos tanto por filas como por columnas, de forma similar a la tarea 1. En este caso, se han resaltado además las filas y columnas cuyo número de píxeles blancos superan 0.95*máximo.
+Tarea 3: Para esta tarea, hemos convertido la imagen resultante de Sobel a 8 bits y posteriormente le hemos aplicado un umbralizado. Por otro lado, hemos realizado un conteo del número máximo de píxeles blancos tanto por filas como por columnas, de forma similar a la tarea 1. En este caso, se han resaltado además las filas y columnas cuyo número de píxeles blancos superan 0.95*máximo. Para diferenciar los resultados entre Sobel y Canny diríamos que Sobel ofrece mucho más detalle de la imagen. Sin embargo, como hemos utilizado una imagen diferente a la de la tarea 1 es difícil comparar los resultados entre ambas tareas.
 
 Tarea 4: Para esta tarea, hemos aplicado a la entrada de la webcam un filtro resultante de haber usado Sobel con la escala ajustada. Por otro lado, hemos usado un filtro resultante de haber usado canny, dejando así dos salidas en las que se puede apreciar lo dado en esta práctica.
 
